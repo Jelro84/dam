@@ -1,0 +1,60 @@
+header{
+    text-align: left;
+    color:white;
+    background-color: darkblue;
+    font-size: larger;
+    font-family:Verdana;
+}
+
+p:hover {
+  background-color: #FAFAFA;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: purple;
+}
+
+#1{
+    border-width: 5px;
+    border-color:  red;
+    border-style: dotted;
+    font-family: Arial;
+}
+
+#2{
+    border-width: 5px;
+    border-color:  blue;
+    border-style:  dashed;
+    font-family: Arial;
+
+}
+
+#3{
+    border-width: 5px;
+    border-color:  black;
+    border-style: groove;
+    font-family: fantasy;
+}
+
+#4{
+    font-family: fantasy;
+
+}
+
+p{
+    margin:  20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+footer{
+text-align: center;
+color:white;
+background-color: darkblue;
+font-size: small;
+font-family:'Franklin Gothic Medium';
+}
